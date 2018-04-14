@@ -38,8 +38,8 @@ class Line {
 	protected $AppName = 'DESKTOPMAC 10.10.2-YOSEMITE-x64    MAC 4.5.0';
 
 */
-	protected $UserAgent = 'Line/8.1.1 iPad5,1 11.2.5';
-	protected $AppName = 'IOSIPAD	8.1.1	iPhone OS	11.2.5';
+	protected $UserAgent = 'Android Mobile Line/7.18.1';
+	protected $AppName = 'DESKTOPWIN\t7.18.1\tFDLRCN\t11.2.5';
 	protected $port = 443;
 	protected $systemname = 'PHP TEST';
 
